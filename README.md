@@ -1,3 +1,4 @@
 # CST-326-Space-Invaders
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DJ_CXQVZ7oc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Alt text for your video](https://img.youtube.com/vi/DJ_CXQVZ7oc/0.jpg)](https://www.youtube.com/watch?v=DJ_CXQVZ7oc&feature=youtu.be)
+
